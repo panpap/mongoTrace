@@ -17,7 +17,7 @@ It also needs a mongoDB server running in default localhost and port
   `ruby mongoTrace.rb <trace>`
   
   
-  &lt;*trace*&gt; is the path of the pcap file that you want to dispatch its packets
+  *`<trace>`* is the path of the pcap file that you want to dispatch its packets
 
 [bson_ext]: https://rubygems.org/gems/bson_ext
 [mongo]: https://rubygems.org/gems/mongo‎
