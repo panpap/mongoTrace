@@ -4,9 +4,9 @@ mongoTrace
 Ruby script that dispatch packet fields from a trace and stores them in a mongoDB.
 
 ###Dependencies
-It needs the following gems
-  -[mongo][]
-  -[bson_ext][]
+It needs the following gems:
+  1. [mongo][]
+  2. [bson_ext][]
   
 It also needs a mongoDB server running in default localhost and port
 
