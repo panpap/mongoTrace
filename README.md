@@ -14,7 +14,7 @@ It also needs a mongoDB server running in default localhost and port
   You can open a terminal and type the following command:
   
   
-  `ruby mongoTrace.rb `*`<trace>`*
+  `ruby mongoTrace.rb <trace>`
   
   
   *`<trace>`* is the path of the pcap file that you want to dispatch its packets
