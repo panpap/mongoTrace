@@ -1,7 +1,7 @@
 mongoTrace
 ==========
 
-Ruby script that dispatch packet fields from a trace and stores them in a mongoDB.
+Ruby script that dispatch packet fields from a network trace and stores them in a mongoDB.
 
 ###Dependencies
 It needs the following gems:
