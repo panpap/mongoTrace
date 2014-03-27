@@ -1,5 +1,5 @@
 #
-##	Panagiotis Papadopoulos
+#	Panagiotis Papadopoulos
 #	trace analyzer and dispatcher for mongoDB. uses tcpdump
 #
 
