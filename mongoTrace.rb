@@ -1,3 +1,9 @@
+#
+##	Panagiotis Papadopoulos
+#	trace analyzer and dispatcher for mongoDB. uses tcpdump
+#
+
+
 require 'mongo'
 include Mongo
 
